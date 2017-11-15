@@ -2,7 +2,7 @@
 
 class App {
   async sum(i, j) {
-    return 3;
+    return i + j;
   }
 }
 
